@@ -47,11 +47,11 @@
         "optionsutils-v1_2_0": "optionsutils-v1_2_0"
       },
       "locked": {
-        "lastModified": 1647062567,
-        "narHash": "sha256-re691GlIbnOmD4eXN7lHS+TfBGf9dniZWrY34Wl6PJ4=",
+        "lastModified": 1647113677,
+        "narHash": "sha256-2ITzbuzOSNJn4DH2W1BG+XQEph/frcH2QsPGKL74DBw=",
         "owner": "nim-nix-pkgs",
         "repo": "optionsutils",
-        "rev": "ccd46b6b5c24817d3bb324ee6bee540d3eb602e6",
+        "rev": "2e3b9010b0053d5bc2acd75400befab2033efa1b",
         "type": "github"
       },
       "original": {
@@ -74,13 +74,20 @@
         "src-optionsutils-master": "src-optionsutils-master"
       },
       "locked": {
-        "narHash": "sha256-u6QXi7z87kPqLJYct8iSbSShMq8S/rRPdNJhqhRU8Ws=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647113677,
+        "narHash": "sha256-2ITzbuzOSNJn4DH2W1BG+XQEph/frcH2QsPGKL74DBw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "optionsutils",
+        "rev": "2e3b9010b0053d5bc2acd75400befab2033efa1b",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "optionsutils",
+        "type": "github"
       }
     },
     "optionsutils-v1_1_0": {
@@ -96,13 +103,20 @@
         "src-optionsutils-v1_1_0": "src-optionsutils-v1_1_0"
       },
       "locked": {
-        "narHash": "sha256-4l0qxibuI921ERern3hrxLAOsCI3YsjvfggcdYR1p7c=",
-        "path": "./v1_1_0",
-        "type": "path"
+        "dir": "v1_1_0",
+        "lastModified": 1647113677,
+        "narHash": "sha256-2ITzbuzOSNJn4DH2W1BG+XQEph/frcH2QsPGKL74DBw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "optionsutils",
+        "rev": "2e3b9010b0053d5bc2acd75400befab2033efa1b",
+        "type": "github"
       },
       "original": {
-        "path": "./v1_1_0",
-        "type": "path"
+        "dir": "v1_1_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "optionsutils",
+        "type": "github"
       }
     },
     "optionsutils-v1_1_1": {
@@ -118,13 +132,20 @@
         "src-optionsutils-v1_1_1": "src-optionsutils-v1_1_1"
       },
       "locked": {
-        "narHash": "sha256-0RUYAIXJ/E7M3MpLXtmRZZyp1hwIEkO9t7S8+ljWL0g=",
-        "path": "./v1_1_1",
-        "type": "path"
+        "dir": "v1_1_1",
+        "lastModified": 1647113677,
+        "narHash": "sha256-2ITzbuzOSNJn4DH2W1BG+XQEph/frcH2QsPGKL74DBw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "optionsutils",
+        "rev": "2e3b9010b0053d5bc2acd75400befab2033efa1b",
+        "type": "github"
       },
       "original": {
-        "path": "./v1_1_1",
-        "type": "path"
+        "dir": "v1_1_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "optionsutils",
+        "type": "github"
       }
     },
     "optionsutils-v1_1_2": {
@@ -140,13 +161,20 @@
         "src-optionsutils-v1_1_2": "src-optionsutils-v1_1_2"
       },
       "locked": {
-        "narHash": "sha256-c7nCGk2E3g5Yhpwth0M7pIAXPDFwPh/TWCMaKoggVU0=",
-        "path": "./v1_1_2",
-        "type": "path"
+        "dir": "v1_1_2",
+        "lastModified": 1647113677,
+        "narHash": "sha256-2ITzbuzOSNJn4DH2W1BG+XQEph/frcH2QsPGKL74DBw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "optionsutils",
+        "rev": "2e3b9010b0053d5bc2acd75400befab2033efa1b",
+        "type": "github"
       },
       "original": {
-        "path": "./v1_1_2",
-        "type": "path"
+        "dir": "v1_1_2",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "optionsutils",
+        "type": "github"
       }
     },
     "optionsutils-v1_2_0": {
@@ -162,13 +190,20 @@
         "src-optionsutils-v1_2_0": "src-optionsutils-v1_2_0"
       },
       "locked": {
-        "narHash": "sha256-De3vQDIBtydwV0RE0hjasDJejX1HlKlzWGd5YisWvS8=",
-        "path": "./v1_2_0",
-        "type": "path"
+        "dir": "v1_2_0",
+        "lastModified": 1647113677,
+        "narHash": "sha256-2ITzbuzOSNJn4DH2W1BG+XQEph/frcH2QsPGKL74DBw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "optionsutils",
+        "rev": "2e3b9010b0053d5bc2acd75400befab2033efa1b",
+        "type": "github"
       },
       "original": {
-        "path": "./v1_2_0",
-        "type": "path"
+        "dir": "v1_2_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "optionsutils",
+        "type": "github"
       }
     },
     "root": {
