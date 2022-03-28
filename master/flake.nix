@@ -11,7 +11,6 @@
   inputs.src-getmac-master.ref   = "refs/heads/master";
   inputs.src-getmac-master.owner = "PMunch";
   inputs.src-getmac-master.repo  = "getmac";
-  inputs.src-getmac-master.dir   = "";
   inputs.src-getmac-master.type  = "github";
   
   inputs."optionsutils".owner = "nim-nix-pkgs";
