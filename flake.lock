@@ -21,6 +21,34 @@
         "type": "github"
       }
     },
+    "getmac-master": {
+      "inputs": {
+        "flakeNimbleLib": [
+          "flakeNimbleLib"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ],
+        "optionsutils": "optionsutils",
+        "src-getmac-master": "src-getmac-master"
+      },
+      "locked": {
+        "dir": "master",
+        "lastModified": 1651556719,
+        "narHash": "sha256-a0RMixkKqhUecdiWb7jcJPs2vZF6KYpWCDV6zlmenNc=",
+        "owner": "nim-nix-pkgs",
+        "repo": "getmac",
+        "rev": "458c28bb2831889daa0234b7b790c1851f8ec5a4",
+        "type": "github"
+      },
+      "original": {
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "getmac",
+        "type": "github"
+      }
+    },
     "nixpkgs": {
       "locked": {
         "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
@@ -35,20 +63,22 @@
     "optionsutils": {
       "inputs": {
         "flakeNimbleLib": [
+          "getmac-master",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
+          "getmac-master",
           "nixpkgs"
         ],
         "src-optionsutils-v1_2_0": "src-optionsutils-v1_2_0"
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1651918275,
-        "narHash": "sha256-CWPnYsIYgl3ieXmfCEpLPuUgJjrQBPwmRIpPASlJQtI=",
+        "lastModified": 1651555858,
+        "narHash": "sha256-C3c4lKXI49YH2A1s2geTenjzv/UZQTFL/m3jDyk+Do8=",
         "owner": "nim-nix-pkgs",
         "repo": "optionsutils",
-        "rev": "09bf4ce86f1639492b3415fc1fa291f40857bf84",
+        "rev": "107de3e623770816548aff64a89bcd30db13988b",
         "type": "github"
       },
       "original": {
@@ -62,9 +92,8 @@
     "root": {
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
-        "nixpkgs": "nixpkgs",
-        "optionsutils": "optionsutils",
-        "src-getmac-master": "src-getmac-master"
+        "getmac-master": "getmac-master",
+        "nixpkgs": "nixpkgs"
       }
     },
     "src-getmac-master": {
