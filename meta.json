@@ -7,8 +7,45 @@
   "license": "MIT",
   "web": "https://github.com/PMunch/getmac",
   "refs": [
-    "fatal: unable to access 'https://github.com/PMunch/getmac/': Failed to connect to github.com port 443 after 131734 ms: Connection timed out",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "getmac",
+      "version": "0.1.1",
+      "author": "PMunch",
+      "desc": "A package to get the MAC address of a local IP address",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        },
+        {
+          "name": "optionsutils",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
