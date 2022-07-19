@@ -34,11 +34,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658018802,
-        "narHash": "sha256-tVnE3uwmp202rIgKdqFoz1c1a6EGRTnCKI1NpQ0BNgw=",
+        "lastModified": 1658032708,
+        "narHash": "sha256-id0OnSEvzbKYku7Bs/IOeTYyeT+oh1jZSS9XglS7Skk=",
         "owner": "nim-nix-pkgs",
         "repo": "getmac",
-        "rev": "943519fc4b6b5a6e938e0f79ab624edbaec60359",
+        "rev": "4255d12473192e5c7bb630ebda127bdb546b4089",
         "type": "github"
       },
       "original": {
@@ -75,11 +75,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1658018157,
-        "narHash": "sha256-ro9BPwhsoIXtGiQdIEnJn3Qzfc/FcOB80hhsO+Lhrk4=",
+        "lastModified": 1658032106,
+        "narHash": "sha256-8HABqqrXAvDuymvMCZnReMMMpyKLce5/Q6V3o89180M=",
         "owner": "nim-nix-pkgs",
         "repo": "optionsutils",
-        "rev": "56678cd016ef5990a6a27a9aa50c07823b059d61",
+        "rev": "fc85647e9447cf31d3abd0b77756f52339a96659",
         "type": "github"
       },
       "original": {
