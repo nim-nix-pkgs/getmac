@@ -47,11 +47,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1667329848,
-        "narHash": "sha256-yQoz1RNBOyFES/ptDxnYSg6+g3lNBvRTPq+bfoIGIHQ=",
+        "lastModified": 1667334704,
+        "narHash": "sha256-yLrK/NrvidlaCpW4jJTg86VKc3RmM74Q3EkgSWZxL9U=",
         "owner": "nim-nix-pkgs",
         "repo": "optionsutils",
-        "rev": "dbbbdc274c77ab1ee499d1f83521bab06ab6b93b",
+        "rev": "23c77fa253fecfd350c8b6324540e9c9ebc201be",
         "type": "github"
       },
       "original": {
